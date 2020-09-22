@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="121.08" height="121.08" viewBox="0 0 121.08 121.08">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #008481;
+      }
+
+      .cls-4, .cls-7 {
+        fill: #00c1bf;
+      }
+
+      .cls-4 {
+        opacity: 0.2;
+        mix-blend-mode: multiply;
+      }
+
+      .cls-5, .cls-6, .cls-8 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-5 {
+        stroke: #00c1bf;
+      }
+
+      .cls-5, .cls-6 {
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        stroke: #008481;
+      }
+
+      .cls-8 {
+        stroke: #57b520;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <g class="cls-1">
+    <g id="art">
+      <g>
+        <g>
+          <path class="cls-2" d="M29.82,101.68a2,2,0,0,1-2-2v-77a2,2,0,0,1,2-2H49.4a11.32,11.32,0,0,1,22.29,0H91.26a2,2,0,0,1,2,2v77a2,2,0,0,1-2,2Z"/>
+          <path class="cls-3" d="M60.54,13.39a9.32,9.32,0,0,1,9.32,9.32h21.4v77H29.82v-77h21.4a9.32,9.32,0,0,1,9.32-9.32m0-4a13.34,13.34,0,0,0-12.7,9.32h-18a4,4,0,0,0-4,4v77a4,4,0,0,0,4,4H91.26a4,4,0,0,0,4-4v-77a4,4,0,0,0-4-4h-18A13.36,13.36,0,0,0,60.54,9.39Z"/>
+        </g>
+        <polygon class="cls-4" points="89.36 40.17 89.36 97.81 31.72 97.81 89.36 40.17"/>
+        <line class="cls-5" x1="59.41" y1="48.83" x2="78.73" y2="48.83"/>
+        <line class="cls-5" x1="59.41" y1="65.99" x2="78.73" y2="65.99"/>
+        <line class="cls-5" x1="59.41" y1="83.15" x2="78.73" y2="83.15"/>
+        <circle class="cls-3" cx="60.54" cy="22.71" r="4"/>
+        <polyline class="cls-6" points="39.35 20.89 39.35 32.54 81.73 32.54 81.73 20.89"/>
+        <rect class="cls-7" x="39.28" y="61.13" width="9.73" height="9.73" rx="2"/>
+        <rect class="cls-7" x="39.28" y="78.28" width="9.73" height="9.73" rx="2"/>
+        <polyline class="cls-8" points="53.9 43.75 42.73 53.91 37.51 48.17"/>
+      </g>
+    </g>
+  </g>
+</svg>
